@@ -81,8 +81,9 @@ build/
 *.pdb
 
 # VSCode 
-.vscode/
 .DS_Store
 
 # Jetbrains
 .cache
+config.bat
+node_modules
