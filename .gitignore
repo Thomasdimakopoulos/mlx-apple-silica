@@ -85,5 +85,5 @@ build/
 
 # Jetbrains
 .cache
-config.bat
 node_modules
+config.bat
